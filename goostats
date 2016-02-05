@@ -1,4 +1,4 @@
-#mef added this line
+#njh is making this change; mef added this line
 
 while getopts J:r: option
 do
