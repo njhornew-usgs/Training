@@ -1,4 +1,4 @@
-#mef added this line
+#mef added this line and pushed it to Nancy
 
 while getopts J:r: option
 do
